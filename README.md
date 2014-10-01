@@ -21,7 +21,9 @@ docker run -d --name="mysql-run" \
     -e "MYSQL_PASSWORD=password" \
     vasansr/ubuntu-mysql
 ```
+
 Exposed: 
+
 ```shell
 docker run -d --name="mysql-run" \
     -e "MYSQL_PASSWORD=password" \
